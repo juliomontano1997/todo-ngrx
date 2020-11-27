@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { ListSmartComponent } from './list/containers/list-smart.component';
+import { ListSmartComponent } from './todo-list/containers/list-smart.component';
 
 const routes: Routes = [{ path: '', component: ListSmartComponent }];
 

@@ -1,0 +1,21 @@
+.container{
+  margin-top: 10vh;
+  display: flex;
+  justify-content:center;
+  align-content: center;
+  justify-content: center;
+}
+
+.head{
+  background-color: rgb(218, 226, 223);
+  width: 90%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.content{
+
+  width: 30vw;
+  background-color: rgb(202, 238, 220);
+  padding: 5%;
+}
