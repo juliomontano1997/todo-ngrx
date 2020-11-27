@@ -9,10 +9,14 @@
 .head{
   background-color: rgb(218, 226, 223);
   width: 90%;
-  padding-left: 10px;
-  padding-right: 10px;
+  display: flex;
+  padding: 10px;
+  justify-content: center;
 }
 
+.head > input {
+  width: 90%;
+}
 .content{
 
   width: 30vw;
